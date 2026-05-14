@@ -24,7 +24,7 @@
       "dest": "/api/contact.js"
     },
     {
-      "src": "/cv.pdf",
+      "src": "/public/cv.pdf",
       "dest": "/public/cv.pdf"
     },
     {
